@@ -30,9 +30,7 @@ public class TimerApp extends Application{
 
         sWatcher = LeakCanary.install(this);
         sInstance = this;
+        getCacheDir();
 
-
-        "this is git";
-        fuck
     }
 }
