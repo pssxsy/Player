@@ -33,5 +33,6 @@ public class TimerApp extends Application{
 
 
         "this is git";
+        fuck
     }
 }
