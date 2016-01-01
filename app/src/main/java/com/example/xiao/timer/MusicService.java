@@ -39,10 +39,8 @@ public class MusicService extends Service {
         return 0;
     }
 
-    @Nullable
     @Override
     public IBinder onBind(Intent intent) {
-
         return mBinder;
     }
 
