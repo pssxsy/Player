@@ -32,6 +32,6 @@ public class TimerApp extends Application{
         sInstance = this;
 
 
-//        "this is git";
+        "this is git";
     }
 }
