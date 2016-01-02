@@ -39,5 +39,7 @@ public class TimerApp extends Application{
 
         treu
 >>>>>>> dev
+
+        Creating a new branch is quick AND simple.
     }
 }
