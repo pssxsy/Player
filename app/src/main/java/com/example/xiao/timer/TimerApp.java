@@ -32,5 +32,7 @@ public class TimerApp extends Application{
         sInstance = this;
         getCacheDir();
 
+
+        hi fuck you!
     }
 }
