@@ -33,6 +33,11 @@ public class TimerApp extends Application{
         getCacheDir();
 
 
+<<<<<<< HEAD
         hi fuck you!
+=======
+
+        treu
+>>>>>>> dev
     }
 }
