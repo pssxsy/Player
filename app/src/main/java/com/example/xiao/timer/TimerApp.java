@@ -32,14 +32,7 @@ public class TimerApp extends Application{
         sInstance = this;
         getCacheDir();
 
-
-<<<<<<< HEAD
-        hi fuck you!
-=======
-
-        treu
->>>>>>> dev
-
+        
         Creating a new branch is quick & simple.
     }
 }
