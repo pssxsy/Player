@@ -32,5 +32,8 @@ public class TimerApp extends Application{
         sInstance = this;
         getCacheDir();
 
+
+
+        treu
     }
 }
