@@ -34,6 +34,6 @@ public class TimerApp extends Application{
 
 
 
-        Creating a new branch is quick and simple.
+        gaibian
     }
 }
