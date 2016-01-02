@@ -31,14 +31,7 @@ public class TimerApp extends Application{
         sWatcher = LeakCanary.install(this);
         sInstance = this;
         getCacheDir();
-
-
-<<<<<<< HEAD
-        hi fuck you!
-=======
-
-        treu
->>>>>>> dev
+        
 
         Creating a new branch is quick AND simple.
     }
